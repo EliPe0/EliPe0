@@ -1,7 +1,7 @@
 ### Hi there, I'm Luiz Filipe 👋
 
 Beginner developer in my own projects.
-I am currently working on projects for Discord Bot's, Web Development and FiveM.
+\nI am currently working on projects for Discord Bot's, Web Development and FiveM.
 
 ### 💻 You can contact me in:
 
