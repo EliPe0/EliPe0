@@ -1,4 +1,4 @@
-## Hi there, I'm Luiz Filipe 👋🇧🇷
+## Hi there, I'm Luiz Filipe 👋
 
 Beginner developer in my own projects.
 
