@@ -4,9 +4,10 @@ Beginner developer in my own projects.
 
 I am currently working on projects for Discord Bot's, Web Development and FiveM.
 
-### 💻 You can contact me in:
+### 💻 You can contact me in
 
-[![Discord Badge](https://img.shields.io/badge/-lp.-672fe0?style=flat-square&labelColor=672fe0&logo=discord&logoColor=white&link=https://discord.com/users/432954675734511626)](https://discord.com/users/432954675734511626) 
+[![Discord Badge](https://img.shields.io/badge/-lp.-672fe0?style=flat-square&labelColor=672fe0&logo=discord&logoColor=white&link=https://discord.com/users/432954675734511626)](https://discord.com/users/432954675734511626)
+[![E-mail Badge](https://img.shields.io/badge/-luiz.filipe10@icloud.com-672fe0?style=flat-square&labelColor=672fe0&logo=gmail&logoColor=white&link=mailto:luiz.filipe10@icloud.com)](mailto:luiz.filipe10@icloud.com) 
 
 ### I have some knowledge of the languages ​​listed below
 
