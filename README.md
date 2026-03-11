@@ -1,8 +1,8 @@
 ### Hi there, I'm Luiz Filipe 👋
 Beginner developer in my own projects.
-I currently work on WebSites using React and some bot's for discord using Js
+I currently work on WebSites using React and some bot's for discord using Js.
 
-### 💻 I have the following knowledge: 
+### 💻 Study the following languages:
 - C#, Lua, Js, React.
 
 ### Contact me ⤵️
