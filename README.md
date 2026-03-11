@@ -2,7 +2,7 @@
 Beginner developer in my own projects.
 I currently work on WebSites using React and some bot's for discord using Js.
 
-### 💻 Study the following languages:
+### 💻 I study the following languages:
 - C#, Lua, Js, React.
 
 ### Contact me ⤵️
