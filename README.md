@@ -2,7 +2,6 @@
 Beginner developer in my own projects.
 I currently work on WebSites using React and some bot's for discord using Js.
 
-###
 ### 💻 I study the following languages:
 
 <div align="left">
@@ -12,7 +11,7 @@ I currently work on WebSites using React and some bot's for discord using Js.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blame/v2.17.0/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
 </div>
 
