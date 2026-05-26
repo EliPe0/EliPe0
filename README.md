@@ -18,9 +18,10 @@ I'm a junior developer who genuinely enjoys coding and loves the feeling of seei
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EliPe0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="160" align="left"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliPe0&layout=donut&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117" height="160"/>
+<p align="center">
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EliPe0&theme=dark" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EliPe0&theme=dark" />
+</p>
 
 ---
 
