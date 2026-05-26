@@ -1,26 +1,28 @@
-# 👋 Hey, I'm Luiz Filipe
+<h1 align="center" style="font-size: 48px;">
+  👋 Hey, I'm Luiz Filipe
+</h1>
 
-```java
-Backend Developer • Java & Node.js
-```
+<p align="center"> Backend Developer • Java & Node.js</p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Backend developer passionate about building scalable and efficient applications<br>
-🎓 Currently studying Software Engineering and improving my backend architecture skills<br>
-☕ Main stack focused on Java, Node.js and APIs<br>
-🧠 Always learning by building real projects
+💻 Backend developer<br>
+🎓 Software Engineering student<br>
+☕ Working mostly with Java and Node.js<br>
+🧠 Always trying to learn something new and improve my skills
 
-* 🔥 Focused on backend development
-* ⚙️ API & systems development
-* 🌱 Improving performance and clean code practices
-* 🎮 Gamer & tech enthusiast
+
+<p align="center">
+  🔥 Focused on backend development &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚙️ Working with APIs and Discord bots &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎮 Gamer and tech enthusiast
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,nodejs,js,lua&theme=dark" />
