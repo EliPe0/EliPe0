@@ -1,21 +1,43 @@
-### Hi there, I'm Luiz Filipe 👋
-Beginner developer in my own projects.
-I currently work on WebSites using React and some bot's for discord using Js.
+<div align="center">
 
-### 💻 I study the following languages:
+# Hi there, I'm Luiz Filipe 👋
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img width="12" />
+---
+
+### 🍪 About Me
+
+I'm a junior developer who genuinely enjoys coding and loves the feeling<br/>
+of seeing something I built actually work. I'm currently in college,<br/>
+deepening my knowledge through courses focused on Java.<br/>
+
+<br/>
+
+☕ &nbsp;Java is my main language<br/>
+🌱 &nbsp;Constantly evolving<br/>
+🧠 &nbsp;I learn best by doing and building things from scratch
+
+---
+
+### 🔧 Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,lua&theme=dark" />
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EliPe0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliPe0&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117" height="140"/>
+
+---
+
+### ✉ Contact
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/432954675734511626)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euelipe1@outlook.com)
+
 </div>
-
-###
-### Contact me ⤵️
-[![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/432954675734511626) 
-[![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euelipe1@outlook.com)
