@@ -18,8 +18,7 @@ I'm currently studying programming with a focus on Java, contributing to JavaScr
 
 <div align="center">
 
-### Languages ​​and Technologies
-
+## Languages ​​and Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js&logoColor=white"/>
@@ -29,12 +28,9 @@ I'm currently studying programming with a focus on Java, contributing to JavaScr
 
 </div>
 
-<br/>
-<br/>
+<br>
 
 <div align="center">
-
-### statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EliPe0&theme=black-ice&hide_border=true&border_radius=55" alt="GitHub Streak" />
